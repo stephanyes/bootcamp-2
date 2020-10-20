@@ -5,8 +5,11 @@ Coding Challenge for Plataforma5 Bootcamp 2.0
 ## Available Scripts
 
 In the project backend directory, you can run:
+
 npm run start:dev - Starts Backend server
+
 npm run migrate - Migrates table just make sure you have in postgres a database name airport_deposit
+
 npm run seed - Seeds Database
 
 ### `npm start` in Front
