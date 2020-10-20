@@ -1,0 +1,29 @@
+.NotFound{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.NotFoundBody{
+    height: 300px;
+    width: 240px;
+    /* background-image: url('../assets/imgs/notFoundImage.svg'); */
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.NotFoundTitle{
+    position: relative;
+    top: 57px;
+    font-size: 3rem;
+    font-weight: 500;
+    font-family: RabbidHighwaySignIIObl;
+}
+.NotFoundDescription{
+    position: relative;
+    top: 140px;
+    font-family: TitilliumWebRegular;
+    font-style: normal;
+}
